@@ -1,0 +1,1 @@
+palavras_aleatorias = [chapeu, capeta, canais, enigma, lazers, ]
