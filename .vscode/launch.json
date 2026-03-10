@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/cristianomarchi/Desktop/DEV_1_YEAR/faculdade_em_c/teste",
+      "program": "/Users/cristianomarchi/Desktop/DEV_1_YEAR/faculdade_em_c/teste/build/Debug/outDebug"
+    }
+  ]
+}
